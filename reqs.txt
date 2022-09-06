@@ -1,0 +1,7 @@
+black
+python-language-server
+pytest
+
+fastapi
+uvicorn
+strawberry-graphql
